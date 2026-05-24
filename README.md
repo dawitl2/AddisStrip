@@ -11,8 +11,6 @@ This is an early-stage prototype focused on gameplay systems, environment buildi
 
 ![Screenshot 1](Screenshot1.png)
 
-![Screenshot 2](Screenshot2.png)
-
 ---
 
 ## 🎮 Features
