@@ -9,9 +9,9 @@ This is an early-stage prototype focused on gameplay systems, environment buildi
 
 ## 📸 Screenshots
 
-![Screenshot 1](Screenshots/Screenshot1.png)
+![Screenshot 1](Screenshot1.png)
 
-![Screenshot 2](Screenshots/Screenshot2.png)
+![Screenshot 2](Screenshot2.png)
 
 ---
 
