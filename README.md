@@ -1,6 +1,6 @@
 # ADDISSTRIP (Unity Prototype Game)
 
-A 3D open-world prototype game built with Unity.  
+A 3D open-world prototype game built with :contentReference[oaicite:0]{index=0}.  
 The game is set in a fictionalized version of Addis Ababa (Mexico area), inspired by real local architecture and urban environments.
 
 This is an early-stage prototype focused on gameplay systems, environment building, and experimentation.
@@ -9,8 +9,9 @@ This is an early-stage prototype focused on gameplay systems, environment buildi
 
 ## 📸 Screenshots
 
-- Screenshot1.png
-- Screenshot2.png
+![Screenshot 1](Screenshots/Screenshot1.png)
+
+![Screenshot 2](Screenshots/Screenshot2.png)
 
 ---
 
@@ -31,7 +32,8 @@ This is an early-stage prototype focused on gameplay systems, environment buildi
 
 The map is a small prototype section inspired by “Mexico” area in Addis Ababa.  
 Buildings include:
-- Custom Blender models (some real-life inspired structures)
+
+- Custom Blender models (real-life inspired structures)
 - Imported 3D assets (temporary placeholders)
 - Street props like lamp posts and city elements
 
@@ -51,7 +53,7 @@ Known issues:
 
 ## 🛠️ Built With
 
-- Unity (Game Engine)
+- :contentReference[oaicite:1]{index=1}
 - Blender (3D Modeling)
 - C# (Game Logic)
 
