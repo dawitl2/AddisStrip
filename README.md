@@ -63,6 +63,7 @@ Known issues:
 
 This project is for learning and portfolio purposes only.  
 Not a final or commercial release.
+This project is currently not available as a playable release while optimization and packaging are still in progress.
 
 ---
 
@@ -73,3 +74,4 @@ Not a final or commercial release.
 - Better traffic system
 - Map expansion
 - Cleaner asset pipeline
+
